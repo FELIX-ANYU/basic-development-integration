@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>base-security</module>
+      <module>base-test</module>
   </modules>
 </project>
