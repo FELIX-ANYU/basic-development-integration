@@ -11,6 +11,7 @@
   <packaging>pom</packaging>
   <modules>
       <module>base-test</module>
+      <module>spring-security-jwt</module>
   </modules>
 
   <properties>

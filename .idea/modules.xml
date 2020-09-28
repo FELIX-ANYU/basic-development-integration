@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/base-test/base-test.iml" filepath="$PROJECT_DIR$/base-test/base-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/basic-development-integration.iml" filepath="$PROJECT_DIR$/.idea/basic-development-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-jwt/spring-security-jwt.iml" filepath="$PROJECT_DIR$/spring-security-jwt/spring-security-jwt.iml" />
     </modules>
   </component>
 </project>
