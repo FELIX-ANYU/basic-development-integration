@@ -12,6 +12,7 @@
   <modules>
       <module>base-test</module>
       <module>spring-security-jwt</module>
+      <module>spring-cloud-gateway</module>
   </modules>
 
   <properties>
