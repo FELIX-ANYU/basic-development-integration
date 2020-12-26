@@ -9,12 +9,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-gateway" />
         <module name="base-test" />
-<<<<<<< Updated upstream
-=======
         <module name="spring-cloud-gateway" />
         <module name="spring-security-jwt" />
->>>>>>> Stashed changes
-        <module name="base-mail" />
         <module name="spring-security-jwt" />
       </profile>
     </annotationProcessing>
